@@ -1,5 +1,5 @@
-# Web App :fire:
-Simple template for create an web application.
+# CodeIgniter Starter Project
+This repository purpose for create web application using CodeIgniter with little ingredient.
 
 ## Components
 The components are:
@@ -8,6 +8,3 @@ The components are:
   3. [Ion-Auth for Authentication.](http://benedmunds.com/ion_auth/)
   4. [Jérôme Jaglale template.](http://jeromejaglale.com/doc/php/codeigniter_template)
   5. [AdminLTE as Backend template.](https://almsaeedstudio.com/themes/AdminLTE/documentation/index.html)
-
-## Maintenance
-Will check the components and attach those update to this template.
